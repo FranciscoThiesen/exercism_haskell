@@ -1,0 +1,8 @@
+/Users/random_person/Exercism/haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: b9fe12b28ee71c1032009f2ef8a9b5c47017baf2bce8872d7b57b7cf32d3679b
+? /Users/random_person/Exercism/haskell/nucleotide-count/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/Paths_nucleotide_count.hs
+: hash: 37c0bc33dc8fbc0fe1c421c02770a382386a7c7b5ba8a4955c077dd98d3bb9ae
+/Users/random_person/Exercism/haskell/nucleotide-count/package.yaml:
+  hash: a9addd79532906f9ac795239d06df65176d38dadf35821e65efed3b7d93b19da
+/Users/random_person/Exercism/haskell/nucleotide-count/src/DNA.hs:
+  hash: d73d084e420b9b19d988a873b54cc3a06d2d8cf939e2730382dfc0b342e2e68a
