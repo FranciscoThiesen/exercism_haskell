@@ -111,10 +111,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "minesweeper-1.1.0.5-YgF1BO36MmELnbIZ5I8JD"
+#define CURRENT_PACKAGE_KEY "minesweeper-1.1.0.5-FBxzE3zflipcbXNLc5er"
 #endif /* CURRENT_PACKAGE_KEY */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "minesweeper-1.1.0.5-YgF1BO36MmELnbIZ5I8JD"
+#define CURRENT_COMPONENT_ID "minesweeper-1.1.0.5-FBxzE3zflipcbXNLc5er"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.1.0.5"

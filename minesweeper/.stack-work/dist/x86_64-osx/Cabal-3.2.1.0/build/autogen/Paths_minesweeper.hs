@@ -30,7 +30,7 @@ version = Version [1,1,0,5] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/random_person/Exercism/haskell/minesweeper/.stack-work/install/x86_64-osx/37852d29ab741eb0fd40210a6353cca662e9292461e039c466c7aca960be6bfd/8.10.7/bin"
-libdir     = "/Users/random_person/Exercism/haskell/minesweeper/.stack-work/install/x86_64-osx/37852d29ab741eb0fd40210a6353cca662e9292461e039c466c7aca960be6bfd/8.10.7/lib/x86_64-osx-ghc-8.10.7/minesweeper-1.1.0.5-YgF1BO36MmELnbIZ5I8JD"
+libdir     = "/Users/random_person/Exercism/haskell/minesweeper/.stack-work/install/x86_64-osx/37852d29ab741eb0fd40210a6353cca662e9292461e039c466c7aca960be6bfd/8.10.7/lib/x86_64-osx-ghc-8.10.7/minesweeper-1.1.0.5-FBxzE3zflipcbXNLc5er"
 dynlibdir  = "/Users/random_person/Exercism/haskell/minesweeper/.stack-work/install/x86_64-osx/37852d29ab741eb0fd40210a6353cca662e9292461e039c466c7aca960be6bfd/8.10.7/lib/x86_64-osx-ghc-8.10.7"
 datadir    = "/Users/random_person/Exercism/haskell/minesweeper/.stack-work/install/x86_64-osx/37852d29ab741eb0fd40210a6353cca662e9292461e039c466c7aca960be6bfd/8.10.7/share/x86_64-osx-ghc-8.10.7/minesweeper-1.1.0.5"
 libexecdir = "/Users/random_person/Exercism/haskell/minesweeper/.stack-work/install/x86_64-osx/37852d29ab741eb0fd40210a6353cca662e9292461e039c466c7aca960be6bfd/8.10.7/libexec/x86_64-osx-ghc-8.10.7/minesweeper-1.1.0.5"

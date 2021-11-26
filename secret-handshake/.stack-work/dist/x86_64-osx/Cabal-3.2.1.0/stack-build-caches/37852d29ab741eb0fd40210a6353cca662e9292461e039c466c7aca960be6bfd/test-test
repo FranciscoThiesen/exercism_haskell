@@ -1,0 +1,8 @@
+? /Users/random_person/Exercism/haskell/secret-handshake/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/test/autogen/Paths_secret_handshake.hs
+: hash: b60d6827f3fb065b3458ab47d872a147854df67aea0f7203620aa951d76acdbe
+/Users/random_person/Exercism/haskell/secret-handshake/test/Tests.hs:
+  hash: 20dca7f6b082119b992caf0b33fe1e5fdc7fd5297f7949769a864a5f1855acb5
+/Users/random_person/Exercism/haskell/secret-handshake/secret-handshake.cabal:
+  hash: 35ee010050c2792248f8ffa13e59e945db09f0c631ff6fa756276a0322781c86
+/Users/random_person/Exercism/haskell/secret-handshake/package.yaml:
+  hash: 5cdc888731e0dd89d56a8ac6a8c18b4a2cd8a9ddf238884046244093a9915f17

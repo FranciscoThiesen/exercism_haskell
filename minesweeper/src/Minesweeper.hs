@@ -13,8 +13,20 @@ calculateValue matrix x y = length $ filter (\t -> checkMine matrix (x + fst t) 
 calculateCharValue :: Char -> Int -> Char
 calculateCharValue c x
   | c == '*' = '*'
-  | otherwise = (if x > 0 then c else intToDigit x)
+  | otherwise = (if x == 0 then ' ' else intToDigit x)
+
+
+getIndices :: String -> [Int]
+getIndices string = [0..(length string - 1)]
+
+calculateStringValue :: String -> [Int] -> String
+calculateStringValue [] _ = []
+calculateStringValue _ [] = []
+calculateStringValue (x:xs) (y:ys) = [calculateCharValue x y] ++ calculateStringValue xs ys
+
+-- Passar matriz, linha
+getStringPerLine :: [String] -> Int -> String
+getStringPerLine matrix x = calculateStringValue (matrix!!x) (map (calculateValue matrix x) (getIndices (matrix!!x)))
 
 annotate :: [String] -> [String]
-annotate lst = map  
-annotate board = error "You need to implement this function."
+annotate matrix = map (getStringPerLine matrix) [0..(length matrix - 1)] 
